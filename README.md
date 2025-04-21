@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Weather App
+
+This weather app provides real-time and 7-day forecasts, offering detailed conditions including temperature, humidity, wind speed, and more. It's a handy tool for staying informed about the weather of any city in India, and beyond. Built with user-friendly design and reliable data, it ensures you're always prepared for the day ahead.
+
+# Installation Guide 
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -44,3 +49,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+### Design and Developed by Arpit Ghura
